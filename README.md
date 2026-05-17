@@ -1,4 +1,8 @@
-## Hi there 👋
+## Hi there 👋 I'm Yunan
+
+I’m a PhD candidate passionate about hybrid Earth system modelling 🌍.
+
+Currently, I’m working on 🌾 **[NeuralCrop.jl](https://github.com/yunan-l/NeuralCrop.jl)**: a differentiable global gridded crop model combining physics with machine learning.
 
 <!--
 **yunan-l/yunan-l** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
