@@ -2,7 +2,7 @@
 
 I’m Yunan, a PhD candidate passionate about hybrid Earth system modelling 🌍.
 
-Currently, I’m working on 🌾 **[NeuralCrop.jl](https://github.com/yunan-l/NeuralCrop.jl)**: a differentiable global gridded crop model combining physics with machine learning.
+Currently, I’m working on 🌾 **[NeuralCrop.jl](https://github.com/yunan-l/NeuralCrop.jl)**: A differentiable global gridded crop model combining physics with machine learning.
 
 <!--
 **yunan-l/yunan-l** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
