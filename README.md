@@ -4,7 +4,7 @@ I’m Yunan, a PhD candidate working on hybrid and differentiable Earth system m
 
 My two main Julia projects:
 
-🌾 **[NeuralCrop.jl](https://github.com/your-username/NeuralCrop.jl)**: A hybrid global gridded crop model in which several process-based components are replaced by neural networks. As my first PhD project, the model is primarily designed as a research framework for exploring hybrid modelling, rather than as a fully standalone crop model, since some processes are intentionally simplified.
+🌾 **[NeuralCrop.jl](https://github.com/your-username/NeuralCrop.jl)**: A hybrid global gridded crop model combining physics with neural networks. As my first PhD project, the model is primarily designed as a research framework for exploring hybrid modelling, rather than as a fully standalone crop model, since some processes are intentionally simplified.
 
 👨‍🌾 **[Agrocosm.jl](https://github.com/your-username/Agrocosm.jl)**: A standalone, process-based crop modelling framework designed to be differentiable and GPU-accelerated. Its long-term goal is to enable process-based crop models to be calibrated and optimized using gradient-based methods. The idea is simple but pretty cool: what if we could optimize a fully process-based crop model in the same way we train a neural network?
 
