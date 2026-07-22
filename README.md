@@ -1,8 +1,8 @@
 ## Hi there 👋
 
-I’m Yunan, a PhD candidate working on hybrid and differentiable Earth system modelling 🌍, with a particular focus on crop models that combine process-based components with data-driven models.
+I’m Yunan, a PhD candidate working on hybrid and differentiable Earth system modelling 🌏.
 
-My two main Julia projects:
+My two main projects:
 
 * 🌾 **[NeuralCrop.jl](https://github.com/yunan-l/NeuralCrop.jl)**: A hybrid global gridded crop model combining physics with neural networks.
 * 👨‍🌾 **[Agrocosm.jl](https://github.com/yunan-l/Agrocosm.jl)**: A standalone, process-based crop modelling framework designed to be differentiable and GPU-accelerated.
