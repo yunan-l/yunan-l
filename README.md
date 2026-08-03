@@ -11,7 +11,7 @@ As my first PhD project, **NeuralCrop** is primarily designed as a research fram
 
 The vision behind **Agrocosm** is to enable process-based crop models to be calibrated and optimized using gradient-based methods. The idea is simple but pretty 🆒: what if we could optimize a fully process-based crop model in the same way we train a neural network? 🤔
 
-Anyway, my research aims to build fully differentiable crop models that combine physical understanding, computational efficiency, and data-driven models.
+Anyway, my research aims to build fully differentiable crop models that combine physical understanding, computational efficiency, and data-driven methods.
 <!--
 **yunan-l/yunan-l** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
