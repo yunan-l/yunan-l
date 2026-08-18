@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I’m Yunan, a PhD candidate working on hybrid and differentiable Earth system modelling 🌏.
+I’m Yunan, a PhD candidate working on hybrid and differentiable Earth system modelling 🌏. My research aims to build fully differentiable crop models that combine physical understanding, computational efficiency, and data-driven methods.
 
 My two main projects:
 
@@ -9,9 +9,8 @@ My two main projects:
 
 As my first PhD project, **NeuralCrop** is primarily designed as a research framework for exploring hybrid modelling, rather than a fully process-based crop model, since some of its components are replaced by neural networks. 
 
-The vision behind **Agrocosm** is to enable process-based crop models to be calibrated and optimized using gradient-based methods. The idea is simple but pretty 🆒: what if we could optimize a fully process-based crop model in the same way we train a neural network? 🤔
+The vision behind **Agrocosm** is to enable process-based crop models to be calibrated and optimized using gradient-based methods.
 
-Anyway, my research aims to build fully differentiable crop models that combine physical understanding, computational efficiency, and data-driven methods.
 <!--
 **yunan-l/yunan-l** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
