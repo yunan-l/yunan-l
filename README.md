@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I’m Yunan, a PhD candidate working on the development of fully differentiable crop models that combine physical understanding, computational efficiency, and data-driven methods.
+I’m Yunan, a PhD candidate working on the development of differentiable crop models that combine physical understanding, computational efficiency, and data-driven methods.
 
 My two main projects:
 
